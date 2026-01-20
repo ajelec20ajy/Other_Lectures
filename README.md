@@ -21,7 +21,7 @@ GroupA
 
 
 
-\GroupB
+GroupB
 
 
 
